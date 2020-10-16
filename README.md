@@ -1,7 +1,7 @@
 # BaseVendas-DataStudio
 
-Neste relatório pude ter meu primeiro contato com o Google Data Studio, entendendo como ele funciona e quais são suas particularia.
+Neste relatório pude ter meu primeiro contato com o Google Data Studio, entendendo como ele funciona e quais são suas particularidades.
 
-A base de dados é simples,  me foi fornecida  quando fiz um curso sobre Access. Ela é fictícia.  
+A base de dados é simples e fictícia, me foi fornecida  quando fiz um curso sobre Access.
 
 Esta base conta com  dados a respeito de vendedores, localizações, produtos e valores de venda, tendo extensão xlsx.
