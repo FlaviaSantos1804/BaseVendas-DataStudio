@@ -6,4 +6,4 @@ A base de dados é simples e fictícia, me foi fornecida  quando fiz um curso so
 
 Esta base conta com  dados a respeito de vendedores, localizações, produtos e valores de venda, tendo extensão xlsx.
 
-Para ter acesso aos dashboards, basta clicar neste link: encurtador.com.br/kDJ01 ou copiá-lo e colá-lo no espaço adequado no navegador de web.
+Para ter acesso aos dashboards, basta clicar neste link: https://cutt.ly/QgR9B1X ou copiá-lo e colá-lo no espaço adequado no navegador de web.
